@@ -1,2 +1,2 @@
-# dayli
+# Dayli
 Task in Java / Kotlin
